@@ -8,21 +8,21 @@ Collabfield is an online community platform that allows a user to communicate wi
 
 * Posting
 
-** Ability to publish posts
+- Ability to publish posts
 
-** Categorize posts
+- Categorize posts
 
-** Search for posts
+- Search for posts
 
 * Instant Messaging
 
-** Create private conversation
+- Create private conversation
 
-** Create group conversations
+- Create group conversations
 
-** Ability to add users to contacts
+- Ability to add users to contacts
 
-** Real-time notifications
+- Real-time notifications
 
 ## Installation
 
